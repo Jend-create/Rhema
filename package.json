@@ -4,6 +4,7 @@
   "private": true,
   "description": "An educational app ",
   "main": "index.js",
+  "homepage": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jend-create/myProject.git"
