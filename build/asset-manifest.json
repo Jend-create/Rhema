@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4789f868.chunk.css",
+    "main.js": "/static/js/main.68c30f4c.chunk.js",
+    "main.js.map": "/static/js/main.68c30f4c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c60b7f5c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c60b7f5c.js.map",
+    "static/js/2.cc815b52.chunk.js": "/static/js/2.cc815b52.chunk.js",
+    "static/js/2.cc815b52.chunk.js.map": "/static/js/2.cc815b52.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4789f868.chunk.css.map": "/static/css/main.4789f868.chunk.css.map",
+    "static/js/2.cc815b52.chunk.js.LICENSE.txt": "/static/js/2.cc815b52.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/meet.2f714d3a.jpg",
+    "static/media/Rheema.d88a3fd7.png": "/static/media/Rheema.d88a3fd7.png",
+    "static/media/rhema.4e9f1a28.png": "/static/media/rhema.4e9f1a28.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c60b7f5c.js",
+    "static/js/2.cc815b52.chunk.js",
+    "static/css/main.4789f868.chunk.css",
+    "static/js/main.68c30f4c.chunk.js"
+  ]
+}
