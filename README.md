@@ -13,7 +13,7 @@ cd backend
 # FACILITATOR PROFILING
 
 # Deployment
-This app has been deployed to heroku:
+This app has been deployed to heroku:https://young-sands-73214.herokuapp.com/
 
 "# Rhema" 
-"# Rhema" 
+https://github.com/Jend-create/Rhema
