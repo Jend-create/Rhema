@@ -9,7 +9,10 @@
 /coverage
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0971e41 (final)
 # misc
 .DS_Store
 .env.local
