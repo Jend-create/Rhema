@@ -9,13 +9,9 @@ cd frontend
 cd backend
 'npm start'
 #Signup & Login Form
+#Video Call
+#Library
+
+frontend=> main branch
+backend=>master branch
  
-# VIDEO CALL FEATURE
-
-# FACILITATOR PROFILING
-
-# Deployment
-This app has been deployed to heroku:https://young-sands-73214.herokuapp.com/
-
-"# Rhema" 
-https://github.com/Jend-create/Rhema
